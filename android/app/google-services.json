@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "322087001829",
+    "project_id": "odoo-cafa1",
+    "storage_bucket": "odoo-cafa1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322087001829:android:703e313bf7d81c22e27e0c",
+        "android_client_info": {
+          "package_name": "com.example.movilsw2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUUlma3Zn6mWiQbt8IJhGgHGLkJx2WAgA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
